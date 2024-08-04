@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @TouchSeyha !
-
-- 😄 Pronouns: he/him
   
 - 🚀 Aspiring front-end developer on a journey to create beautiful and intuitive web experiences.
   
