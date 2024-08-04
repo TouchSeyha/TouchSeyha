@@ -6,7 +6,8 @@
   
 - 🔍 Always exploring new technologies and best practices in the ever-evolving world of front-end development.
 
-![image](https://github.com/user-attachments/assets/6681e51e-2169-40a3-9ce8-f4c0d034a66b)
+![Dog Codind](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJwbGU1em43YXp3a2ptNnR1NWQwdDRxNHFubW1pcmk3YmszbHZ5diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 - 📫 How to reach me hcy.contactbs@gmail.com
 
