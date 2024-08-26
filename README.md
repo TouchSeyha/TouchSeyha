@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TouchSeyha !
+- 👋 Hi, I’m [@TouchSeyha](https://github.com/TouchSeyha) !
 
 - 🌱 I’m currently learning React.js, Redux, Jest to build a strong foundation in web development.
   
