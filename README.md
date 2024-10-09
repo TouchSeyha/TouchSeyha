@@ -1,7 +1,5 @@
 - 👋 Hi, I’m [@TouchSeyha](https://github.com/TouchSeyha) !
 
-- 🌱 I’m currently learning React.js, Redux, Jest.
-
 - 📫 How to reach me hcy.contactbs@gmail.com
 <!---
 ![Dog Codind](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJwbGU1em43YXp3a2ptNnR1NWQwdDRxNHFubW1pcmk3YmszbHZ5diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif)--->
