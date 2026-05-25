@@ -131,11 +131,6 @@ I'm building web apps, automation tools, and management systems with a strong fo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TouchSeyha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-
-<br />
-<br />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TouchSeyha&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
 
 </div>
