@@ -18,26 +18,57 @@
 
 I'm building web apps, automation tools, and management systems with a strong focus on clean UI, practical workflows, and real-world usefulness.
 
-- 🧑‍💻 Most used stack: **TypeScript**, **JavaScript**, **React**, **Next.js**
-- 🛠️ Also working with: **PowerShell**, **Shell**, **Kotlin**, **Python**, **PHP/Laravel**, **C#**, **Docker**
+- 🧑‍💻 Most used stack: **TypeScript**, **JavaScript**, **React**, **Next.js**, **Convex**
+- 🛠️ Also working with: **PowerShell**, **Shell**, **Python**, **PHP/Laravel**, **C#**, **Docker**, **NeonDB**, **Convex**
 - 📦 Interested in: developer tools, SaaS apps, dashboards, automation, AI-assisted coding, and business systems
 - 🌐 Portfolio website: **[seyha.space](https://seyha.space/)**
 - 📫 Reach me: **hcy.contactbs@gmail.com**
 
 ---
 
-## 🧰 Tech Stack
+## ❤️ Current Favorite Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vercel" alt="Favorite stack" />
+<br />
+<img src="https://cdn.simpleicons.org/trpc/2596BE" height="48" alt="tRPC" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/convex/FF3366" height="48" alt="Convex" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/neon/00E599" height="48" alt="NeonDB" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/zedindustries/084CCF" height="48" alt="Zed" />
+
+<br />
+<br />
+
+**TypeScript • JavaScript • React • Next.js • Tailwind CSS • tRPC • Vercel • Convex • NeonDB • Zed**
+
+</div>
+
+---
+
+## 🧰 Tech That I've Used in My Career
 
 <div align="center">
 
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,vite)
+<img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,remix,html,css,tailwind,vite" alt="Frontend skills" />
+<br />
+<img src="https://cdn.simpleicons.org/reactrouter/CA4245" height="48" alt="React Router" />
 
 ### Backend / Database
-![Backend](https://skillicons.dev/icons?i=nodejs,php,laravel,python,kotlin,mysql,postgres,prisma)
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,fastapi,mysql,postgres,prisma" alt="Backend skills" />
+<br />
+<img src="https://cdn.simpleicons.org/neon/00E599" height="48" alt="NeonDB" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/convex/FF3366" height="48" alt="Convex" />
 
 ### Tools / DevOps
-![Tools](https://skillicons.dev/icons?i=git,github,docker,powershell,bash,linux,vscode,figma)
+<img src="https://skillicons.dev/icons?i=git,github,docker,powershell,bash,linux,vscode,figma" alt="Tools" />
+<br />
+<img src="https://cdn.simpleicons.org/zedindustries/084CCF" height="48" alt="Zed" />
 
 </div>
 
@@ -101,7 +132,6 @@ I'm building web apps, automation tools, and management systems with a strong fo
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=TouchSeyha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TouchSeyha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br />
 <br />
@@ -112,21 +142,10 @@ I'm building web apps, automation tools, and management systems with a strong fo
 
 ---
 
-## 💡 Project Ideas I'm Exploring
-
-- 🧾 **Invoice / POS system** — practical business billing with Khmer-friendly UX
-- 🏨 **Hotel management SaaS** — improve current hotel system into a reusable product
-- 📚 **Developer e-course platform** — courses, quizzes, progress tracking, admin dashboard
-- 🛠️ **CLI automation toolkit** — expand `level-up` into a full developer productivity tool
-- 🤖 **Telegram business bots** — payments, reminders, order tracking, and admin alerts
-- 💳 **KHQR payment integrations** — reusable package or demo app for Cambodian payment flows
-- 📈 **Personal analytics dashboard** — GitHub, habits, finance, and learning progress in one UI
-
----
-
 ## 🎯 Current Focus
 
 ```txt
+AI Engineering
 AI-assisted developer tools
 AI model experiments and integrations
 Automation workflows powered by LLMs
