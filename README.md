@@ -19,7 +19,7 @@
 I'm building web apps, automation tools, and management systems with a strong focus on clean UI, practical workflows, and real-world usefulness.
 
 - 🧑‍💻 Most used stack: **TypeScript**, **JavaScript**, **React**, **Next.js**, **Convex**
-- 🛠️ Also working with: **PowerShell**, **Shell**, **Python**, **PHP/Laravel**, **C#**, **Docker**, **NeonDB**, **Convex**
+- 🛠️ Also working with: **PowerShell**, **Shell**, **Python**, **PHP/Laravel**, **Docker**, **NeonDB**, **Convex**
 - 📦 Interested in: developer tools, SaaS apps, dashboards, automation, AI-assisted coding, and business systems
 - 🌐 Portfolio website: **[seyha.space](https://seyha.space/)**
 - 📫 Reach me: **hcy.contactbs@gmail.com**
