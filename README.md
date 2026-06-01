@@ -97,6 +97,7 @@ I'm building web apps, automation tools, and management systems with a strong fo
       <p><img src="https://img.shields.io/badge/Status-Upcoming-8B5CF6?style=flat-square" alt="Upcoming" /></p>
       <p>E-course platform project for learning content, course structure, and web app practice.</p>
       <p><b>Tech:</b> TypeScript, JavaScript, CSS</p>
+      <a href="https://dev-learn.fun/">Visit website →</a>
     </td>
     <td width="50%">
       <h3>💍 w-invitation</h3>
