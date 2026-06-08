@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Touch Seyha 👋
+# Touch Seyha
 
-### Full-stack developer focused on TypeScript, React/Next.js, automation tools, and practical business systems.
+### Sure, I'm a Full-stack developer focused on TypeScript, React/Next.js, automation tools.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-seyha.space-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://seyha.space/)
 [![Email](https://img.shields.io/badge/Email-hcy.contactbs%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hcy.contactbs@gmail.com)
@@ -77,20 +77,27 @@ I'm building web apps, automation tools, and management systems with a strong fo
 ## 📌 Featured Projects
 
 <table>
-  <tr>
+<tr>
     <td width="50%">
-      <h3>📦 level-up</h3>
-      <p>Command-line tool for upgrading packages in bulk across PowerShell and Bash workflows.</p>
-      <p><b>Tech:</b> PowerShell, Shell, TypeScript, Docker</p>
-      <a href="https://github.com/TouchSeyha/level-up">View repository →</a>
+    <h3>🌐 touch-seyha-web</h3>
+    <p>
+        <img src="https://img.shields.io/badge/Website-Live-22C55E?style=flat-square" alt="Live website" />
+    </p>
+    <p>My personal portfolio website for showcasing projects, skills, and developer work.</p>
+    <p><b>Tech:</b> TypeScript, JavaScript, CSS</p>
+    <a href="https://seyha.space/">Visit website →</a>
     </td>
     <td width="50%">
-      <h3>🏨 hotelmanage2</h3>
-      <p>Hotel management system built as a final project, focused on practical business operations in Cambodia.</p>
-      <p><b>Tech:</b> TypeScript, JavaScript, CSS, Shell</p>
-      <a href="https://github.com/TouchSeyha/hotelmanage2">View repository →</a>
+    <h3>💊 e-pharmacy</h3>
+    <p>
+        <img src="https://img.shields.io/badge/Status-Upcoming-8B5CF6?style=flat-square" alt="Upcoming" />
+        <img src="https://img.shields.io/badge/Website-Live-22C55E?style=flat-square" alt="Live website" />
+    </p>
+    <p>E-Pharmacy is a full-stack, demo-grade pharmacy e-commerce platform designed for the Cambodian market.</p>
+    <p><b>Tech:</b> TypeScript, Next.js</p>
+    <a href="https://e-pharmacy.xyz/">Visit website →</a>
     </td>
-  </tr>
+</tr>
   <tr>
     <td width="50%">
       <h3>🎓 dev-e-course</h3>
@@ -100,28 +107,30 @@ I'm building web apps, automation tools, and management systems with a strong fo
       <a href="https://dev-learn.fun/">Visit website →</a>
     </td>
     <td width="50%">
+      <h3>🏨 hotelmanage2</h3>
+      <p>
+          <img src="https://img.shields.io/badge/Website-Live-22C55E?style=flat-square" alt="Live website" />
+      </p>
+      <p>Hotel management system built as a final project, focused on practical business operations in Cambodia.</p>
+      <p><b>Tech:</b> TypeScript, JavaScript, CSS, Shell</p>
+      <a href="https://github.com/TouchSeyha/hotelmanage2">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>💍 w-invitation</h3>
       <p><img src="https://img.shields.io/badge/Status-Upcoming-8B5CF6?style=flat-square" alt="Upcoming" /></p>
       <p>Digital invitation web project with a modern frontend stack.</p>
       <p><b>Tech:</b> TypeScript, JavaScript, CSS</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
-      <h3>🌐 touch-seyha-web</h3>
+      <h3>📦 level-up</h3>
       <p>
-        <img src="https://img.shields.io/badge/Website-Live-22C55E?style=flat-square" alt="Live website" />
-        <img src="https://img.shields.io/badge/Repository-Upcoming-8B5CF6?style=flat-square" alt="Upcoming repository" />
+          <img src="https://img.shields.io/badge/Website-Live-22C55E?style=flat-square" alt="Live website" />
       </p>
-      <p>My personal portfolio website for showcasing projects, skills, and developer work.</p>
-      <p><b>Tech:</b> TypeScript, JavaScript, CSS</p>
-      <a href="https://seyha.space/">Visit website →</a>
-    </td>
-    <td width="50%">
-      <h3>💪 gym-track</h3>
-      <p><img src="https://img.shields.io/badge/Status-Upcoming-8B5CF6?style=flat-square" alt="Upcoming" /></p>
-      <p>Fitness tracking application idea focused on personal progress and routine management.</p>
-      <p><b>Tech:</b> TypeScript, JavaScript</p>
+      <p>Command-line tool for upgrading packages in bulk across PowerShell and Bash workflows.</p>
+      <p><b>Tech:</b> PowerShell, Shell, TypeScript, Docker</p>
+      <a href="https://github.com/TouchSeyha/level-up">View repository →</a>
     </td>
   </tr>
 </table>
