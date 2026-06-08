@@ -122,6 +122,7 @@ I'm building web apps, automation tools, and management systems with a strong fo
       <p><img src="https://img.shields.io/badge/Status-Upcoming-8B5CF6?style=flat-square" alt="Upcoming" /></p>
       <p>Digital invitation web project with a modern frontend stack.</p>
       <p><b>Tech:</b> TypeScript, JavaScript, CSS</p>
+    <a href="https://github.com/TouchSeyha">Site Coming Soon →</a>
     </td>
     <td width="50%">
       <h3>📦 level-up</h3>
