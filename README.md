@@ -14,18 +14,6 @@
 
 ---
 
-## 🚀 About Me
-
-I'm building web apps, automation tools, and management systems with a strong focus on clean UI, practical workflows, and real-world usefulness.
-
-- 🧑‍💻 Most used stack: **TypeScript**, **JavaScript**, **React**, **Next.js**, **Convex**
-- 🛠️ Also working with: **PowerShell**, **Shell**, **Python**, **PHP/Laravel**, **Docker**, **NeonDB**, **Convex**
-- 📦 Interested in: developer tools, SaaS apps, dashboards, automation, AI-assisted coding, and business systems
-- 🌐 Portfolio website: **[seyha.space](https://seyha.space/)**
-- 📫 Reach me: **hcy.contactbs@gmail.com**
-
----
-
 ## ❤️ Current Favorite Stack
 
 <div align="center">
@@ -135,28 +123,6 @@ I'm building web apps, automation tools, and management systems with a strong fo
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TouchSeyha&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```txt
-AI Engineering
-AI-assisted developer tools
-AI model experiments and integrations
-Automation workflows powered by LLMs
-TypeScript-first apps with practical AI features
-```
 
 ---
 
