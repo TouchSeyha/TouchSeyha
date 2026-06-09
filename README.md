@@ -62,7 +62,7 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Own Projects
 
 <table>
 <tr>
