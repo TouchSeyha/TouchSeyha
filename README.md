@@ -78,12 +78,11 @@
     <td width="50%">
     <h3>💊 e-pharmacy</h3>
     <p>
-        <img src="https://img.shields.io/badge/Status-Upcoming-8B5CF6?style=flat-square" alt="Upcoming" />
-        <img src="https://img.shields.io/badge/Website-Live-22C55E?style=flat-square" alt="Live website" />
+          <img src="https://img.shields.io/badge/Website-Live-22C55E?style=flat-square" alt="Live website" />
     </p>
     <p>E-Pharmacy is a full-stack, demo-grade pharmacy e-commerce platform designed for the Cambodian market.</p>
     <p><b>Tech:</b> TypeScript, Next.js</p>
-    <a href="https://e-pharmacy.xyz/">Visit website →</a>
+     <a href="https://github.com/TouchSeyha/e-pharmacy">View repository →</a>
     </td>
 </tr>
   <tr>
