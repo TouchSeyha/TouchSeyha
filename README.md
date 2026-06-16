@@ -82,7 +82,7 @@
     </p>
     <p>E-Pharmacy is a full-stack, demo-grade pharmacy e-commerce platform designed for the Cambodian market.</p>
     <p><b>Tech:</b> TypeScript, Next.js</p>
-     <a href="https://github.com/TouchSeyha/e-pharmacy">View repository →</a>
+     <a href="https://e-pharmacy.xyz/">View repository →</a>
     </td>
 </tr>
   <tr>
