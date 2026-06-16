@@ -87,8 +87,11 @@
 </tr>
   <tr>
     <td width="50%">
-      <h3>🎓 dev-e-course</h3>
-      <p><img src="https://img.shields.io/badge/Status-Upcoming-8B5CF6?style=flat-square" alt="Upcoming" /></p>
+      <h3>🎓 dev-e-course (nigthly mode)</h3>
+      <p>
+          <img src="https://img.shields.io/badge/Status-Upcoming-8B5CF6?style=flat-square" alt="Upcoming" />
+         <img src="https://img.shields.io/badge/Website-Live-22C55E?style=flat-square" alt="Live website" />
+      </p>
       <p>E-course platform project for learning content, course structure, and web app practice.</p>
       <p><b>Tech:</b> TypeScript, JavaScript, CSS</p>
       <a href="https://dev-learn.fun/">Visit website →</a>
