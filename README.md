@@ -82,7 +82,7 @@
     </p>
     <p>E-Pharmacy is a full-stack, demo-grade pharmacy e-commerce platform designed for the Cambodian market.</p>
     <p><b>Tech:</b> TypeScript, Next.js</p>
-     <a href="https://e-pharmacy.xyz/">View repository →</a>
+     <a href="https://e-pharmacy.xyz/">View website →</a>
     </td>
 </tr>
   <tr>
@@ -103,7 +103,7 @@
       </p>
       <p>Hotel management system built as a final project, focused on practical business operations in Cambodia.</p>
       <p><b>Tech:</b> TypeScript, JavaScript, CSS, Shell</p>
-      <a href="https://github.com/TouchSeyha/hotelmanage2">View repository →</a>
+      <a href="https://hotelmanage2.vercel.app/">View website →</a>
     </td>
   </tr>
   <tr>
