@@ -54,10 +54,7 @@
 <img src="https://cdn.simpleicons.org/convex/FF3366" height="48" alt="Convex" />
 
 ### Tools / DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,powershell,bash,linux,vscode,figma" alt="Tools" />
-<br />
-<img src="https://cdn.simpleicons.org/zedindustries/084CCF" height="48" alt="Zed" />
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,powershell,bash,linux,figma" alt="Tools" />
 </div>
 
 ---
